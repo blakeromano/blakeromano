@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on continuing my coding education!
-- 🌱 I’m currently learning Python/Django!
+- 🌱 I’m currently learning advanced CSS/Typescript!
 - 👯 I’m looking to collaborate on any fun projects to help expand my knowledge!
 - 🤔 I’m looking for help with networking with other amazing developers!
 - 💬 Ask me about my love of science!
