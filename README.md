@@ -5,9 +5,9 @@
 </div align="center">
 <hr>
 
-- 🔭 I’m currently working on OpenTelemetry, Cloud Computing, Java, and GoLang!
-- 🌱 I’m currently learning everything!
-- 🤔 I’m looking for help with networking with other amazing developers!
+- 🔭 I’m currently working with Pulumi, CrossPlane, Argo, EKS!
+- 🌱 I’m currently learning and executing on building an Internal Developer Platform!
+- 🤔 I’m looking to network with other amazing developers!
 - 💬 Ask me about my love of science!
 - 📫 How to reach me: Feel free to add me on LinkedIn! [Here!](https://www.linkedin.com/in/blakeromano/)
 - 😄 Pronouns: He/Him/His
