@@ -1,15 +1,26 @@
-<h1 align="center"> Hi there my name is Blake! 👋 </h1>
+# Hi, I'm Blake 👋
 
-<div align="center">
-  <a href="#"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=blakeromano&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight" />  </a>
-</div align="center">
-<hr>
+---
 
-- 🔭 I’m currently working with Pulumi, CrossPlane, Argo, EKS!
-- 🌱 I’m currently learning and executing on building an Internal Developer Platform!
-- 🤔 I’m looking to network with other amazing developers!
-- 💬 Ask me about my love of science!
-- 📫 How to reach me: Feel free to add me on LinkedIn! [Here!](https://www.linkedin.com/in/blakeromano/)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: My favorite color is black!
+Staff Software Engineer working at the intersection of **platform engineering** and **agentic AI**. I build the systems that help large engineering organizations ship faster — internal developer platforms, AI-powered developer tools, and the infrastructure that makes them production-grade.
 
+### What I'm up to in 2026
+
+- 🛠️ Building agentic SDLC tooling and AI-powered developer experiences for a 350+ engineer org
+- ☁️ Deep in the cloud-native stack — Kubernetes, Argo, Crossplane, Pulumi, EKS
+- 🎤 Speaker at **KubeCon** and **GitOpsCon** — talking about platform engineering and developer productivity
+- 🌱 CNCF contributor
+- 📝 Writing about agentic dev tooling, IDP adoption, and what actually works at scale
+
+### What I like talking about
+
+Platform engineering · Agentic AI in the SDLC · Internal developer platforms · Kubernetes at scale · How AI is reshaping how engineers work
+
+### Reach me
+
+- LinkedIn: [blakeromano](https://www.linkedin.com/in/blakeromano/)
+- Always open to chatting with folks working on similar problems
+
+---
+
+<sub>He/Him</sub>
